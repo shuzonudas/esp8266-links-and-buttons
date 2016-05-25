@@ -3,7 +3,7 @@
 #include <ESP8266WebServer.h>
 
 const char* ssid = "BTCL ADSL";
-const char* pass = "UHUBFJ2DNG";
+const char* pass = "your_password";
 
 ESP8266WebServer server(80);
 
